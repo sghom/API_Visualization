@@ -1,4 +1,4 @@
-# api_visualizations
+# API Visualizations
 Python GitHub Repositories Analysis
 This project provides a Python script that interacts with the GitHub API to fetch and visualize information about the most-starred Python repositories. It includes two primary functionalities:
 1. API Data Retrieval:
